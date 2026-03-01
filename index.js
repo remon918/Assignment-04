@@ -102,4 +102,6 @@ function updateStat() {
         emptyStat.classList.add("hidden");
     }
 }
+
+
 updateStat();
